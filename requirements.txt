@@ -1,0 +1,13 @@
+numpy<2.0
+opencv-python
+pyautogui
+pydirectinput
+mss
+gym
+torch
+torchvision
+kornia
+tensorboard
+psutil
+
+
